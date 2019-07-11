@@ -7,7 +7,6 @@
 ## 目录
 
 1_M-P模型与BP神经网络
-
 ```
 M-P模型  https://blog.csdn.net/u013007900/article/details/50066315
 BP神经网络  https://blog.csdn.net/u013007900/article/details/50118945
