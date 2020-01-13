@@ -19,4 +19,7 @@ Neural Networks  https://www.2cto.com/kf/201610/553336.html
 反向传播算法可以说是梯度下降在链式法则中的应用。 （摘自 https://www.jianshu.com/p/964345dddb70）
 ```
 
-2_
+2_深度学习  花书 http://www.deeplearningbook.org/
+
+3_深度学习  花书  中文版 https://github.com/exacity/deeplearningbook-chinese
+
