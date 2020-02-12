@@ -23,7 +23,9 @@ Neural Networks  https://www.2cto.com/kf/201610/553336.html
 
 #### 3_深度学习  花书  中文版 https://github.com/exacity/deeplearningbook-chinese
 
-#### 4_
+#### 4_张量
+
+张量的通俗理解 https://www.cnblogs.com/abella/p/10142935.html
 
 #### 5_Embedding
 
