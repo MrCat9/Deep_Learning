@@ -37,3 +37,11 @@ Embedding的理解 https://zhuanlan.zhihu.com/p/46016518
 
 怎么形象理解embedding这个概念 https://www.zhihu.com/question/38002635
 
+#### [6_MedicalNet](https://github.com/Tencent/MedicalNet)
+
+```
+3D医疗影像  3D-ResNet
+```
+
+
+
