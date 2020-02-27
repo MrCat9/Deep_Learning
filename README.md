@@ -43,5 +43,8 @@ Embedding的理解 https://zhuanlan.zhihu.com/p/46016518
 3D医疗影像  3D-ResNet
 ```
 
+#### 7_softmax
+
+https://segmentfault.com/a/1190000017320763
 
 
