@@ -47,4 +47,9 @@ Embedding的理解 https://zhuanlan.zhihu.com/p/46016518
 
 https://segmentfault.com/a/1190000017320763
 
+#### 8_Non-local Network
+
+#### 9_视频分类
+
+https://www.jianshu.com/p/e416b837351d
 
