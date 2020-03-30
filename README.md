@@ -53,3 +53,7 @@ https://segmentfault.com/a/1190000017320763
 
 https://www.jianshu.com/p/e416b837351d
 
+#### 10_GCN
+
+Graph Convolutional Network（GCN） https://www.zhihu.com/question/54504471?sort=created
+
