@@ -57,3 +57,15 @@ https://www.jianshu.com/p/e416b837351d
 
 Graph Convolutional Network（GCN） https://www.zhihu.com/question/54504471?sort=created
 
+#### 11_对loss和acc的分析和处理
+
+train loss 和 test loss的关系与作用 https://blog.csdn.net/u012986684/article/details/79179640
+
+对loss和acc的分析、处理 https://blog.csdn.net/wydbyxr/article/details/84852672
+
+#### 12_小型数据集卷积神经网络CNN训练策略
+
+小型数据集卷积神经网络CNN训练策略 https://blog.csdn.net/ccchen706/article/details/89714487
+
+
+
