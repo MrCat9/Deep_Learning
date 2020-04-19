@@ -67,5 +67,9 @@ train loss 和 test loss的关系与作用 https://blog.csdn.net/u012986684/arti
 
 小型数据集卷积神经网络CNN训练策略 https://blog.csdn.net/ccchen706/article/details/89714487
 
+#### 13_常用的公共数据集
 
+https://blog.csdn.net/m0_37570854/article/details/88736189
+
+#### 14_
 
