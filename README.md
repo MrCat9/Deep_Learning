@@ -71,5 +71,6 @@ train loss 和 test loss的关系与作用 https://blog.csdn.net/u012986684/arti
 
 https://blog.csdn.net/m0_37570854/article/details/88736189
 
-#### 14_
+#### [14_Batch-normalized 应该放在非线性激活层的前面还是后面](https://www.zhihu.com/question/283715823/answer/438882036)
 
+> 目前在实践上，倾向于把BN放在ReLU后面。
