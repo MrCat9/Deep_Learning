@@ -74,3 +74,10 @@ https://blog.csdn.net/m0_37570854/article/details/88736189
 #### [14_Batch-normalized 应该放在非线性激活层的前面还是后面](https://www.zhihu.com/question/283715823/answer/438882036)
 
 > 目前在实践上，倾向于把BN放在ReLU后面。
+
+#### 15_模型效果评估指标
+
+准确率(Precision)、召回率(Recall)、F值(F-Measure)、平均正确率，IoU https://zhuanlan.zhihu.com/p/101101207
+
+
+
